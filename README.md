@@ -3,7 +3,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFFEFB&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Lucas+Lima;I'm+20+years+old;I'm+from+São+Paulo,+Brazil;Studying+Front-end;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=luucasalvess&show_icons=true&count_private=true&hide_border=true&title_color=490000&icon_color=490000&text_color=000000&bg_color=B8B7B4" alt="Lucas Alves github stats" /> 
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=lucaslima44&show_icons=true&count_private=true&hide_border=true&title_color=490000&icon_color=490000&text_color=000000&bg_color=B8B7B4" alt="Lucas Alves github stats" /> 
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucaslima44&layout=compact&hide_border=true&title_color=490000&text_color=000000&bg_color=B8B7B4"/>
 </div>
 
@@ -22,7 +22,7 @@
 
 <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{LuucasAlvess}/count.svg" /></p> 
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{lucaslima44}/count.svg" /></p> 
 <br></div>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FFFEFB&height=120&section=footer"/>
