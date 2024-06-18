@@ -1,28 +1,23 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FFFEFB&height=120&section=header"/>
+<img align="right" alt="Developer vector created by storyset - www.freepik.com" height="380" src="https://user-images.githubusercontent.com/97471199/230774187-e482399b-492c-4c17-a831-0314bf90526e.png">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFFEFB&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Lucas+Lima;I'm+20+years+old;I'm+from+São+Paulo,+Brazil;Studying+Front-end;Be+Welcome!+:%29)](https://git.io/typing-svg)
+<h1>Lucas Lima</h1>
 
-<div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=lucaslima44&show_icons=true&count_private=true&hide_border=true&title_color=490000&icon_color=490000&text_color=000000&bg_color=B8B7B4" alt="Lucas Alves github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucaslima44&layout=compact&hide_border=true&title_color=490000&text_color=000000&bg_color=B8B7B4"/>
-</div>
+<p align="justify">Estudante de Análise e Desenvolvimento de Sistemas, apaixonado por front-end dedico meu tempo para estudos. Atualmente estou estudando React, Tailwind e Next.js
+</p>
 
 
- ### Main skills:
-![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=0D1117)&nbsp;
-![React.js](https://img.shields.io/badge/-React.js-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp;
+
+### GitHub Stats
+![GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=lucaslima44&hide_title=true&show_icons=true&include_all_commits=false&count_private=true&line_height=25&hide=issues&bg_color=000&title_color=8259FF&text_color=FFF&border_radius=3&border_color=8259FFc&icon_color=8259FF)
 
 
-### Studying in this moment:
-![React.js](https://img.shields.io/badge/-React.js-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp;
-![Typescript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117&textColor=0D1117)&nbsp;
-![Node.JS](https://img.shields.io/badge/-Node.JS-0D1117?style=for-the-badge&logo=node.js&labelColor=0D1117&textColor=0D1117)&nbsp;
 
 
-<div align="center">
-<br><p align="centre"><b>Visitors Count</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{lucaslima44}/count.svg" /></p> 
-<br></div>
+ ### Skills:
+ ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white&color=010409)
+ ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white&color=010409)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white&color=010409)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=white&color=010409)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white&color=010409)
+![Tailwind](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white&color=010409)
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FFFEFB&height=120&section=footer"/>
