@@ -5,13 +5,8 @@
 <p align="justify">Estudante de Análise e Desenvolvimento de Sistemas, apaixonado por front-end dedico meu tempo para estudos. Atualmente estou estudando React, Tailwind e Next.js
 </p>
 
-
-
 ### GitHub Stats
 ![GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=lucaslima44&hide_title=true&show_icons=true&include_all_commits=false&count_private=true&line_height=25&hide=issues&bg_color=000&title_color=8259FF&text_color=FFF&border_radius=3&border_color=8259FFc&icon_color=8259FF)
-
-
-
 
  ### Skills:
  ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white&color=010409)
